@@ -19,7 +19,7 @@ A ideia aqui e começar com dicas e exercicios simples, focando em quem tem inte
 <summary> <h2> 📝 Minhas Anotações </h2> </summary>
 <blockquote>
   
-  <li><a href="https://https://www.notion.so/diegojfsr/Trabalho-Final-E-comerce-ab9bc012373d4305a7383b8cff5ae4a7"> Minhas Anotações durante o desenvolvimento do E-comerce. </a></li>
+  <li><a href="https://www.notion.so/diegojfsr/Trabalho-Final-E-comerce-ab9bc012373d4305a7383b8cff5ae4a7"> Minhas Anotações durante o desenvolvimento do E-comerce. </a></li>
 </blockquote>
 </details>
 
